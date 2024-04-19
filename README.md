@@ -10,7 +10,7 @@
 
 - 💬 My interest is talk about Programming Language and Framework 
 
-- 📫 Email me at <a href="mailto:kzquandary@gmail.com">kzquandary@gmail.com</a>
+- 📫 Email me at <a href="mailto:kaze@kzquandary.my.id">kaze@kzquandary.my.id</a>
 
 <p align="center"> <a href="https://instagram.com/Kzquandary" target="blank"><img src="https://img.shields.io/twitter/follow/Kzquandary?logo=instagram&style=for-the-badge" alt="Kzquandary" /></a> </p>
 
