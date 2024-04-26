@@ -40,13 +40,12 @@
 
 <h2> Connect with me </h2>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/nur-faid-prasetyo-a7171113b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nur-faid-prasetyo-a7171113b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17518064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17518064" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kzquandary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kzquandary/" height="30" width="40" /></a>
 <a href="https://fb.com/Kzquandary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kzquandary" height="30" width="40" /></a>
 <a href="https://instagram.com/Kzquandary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kzquandary" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Kzquandary_FTR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Kzquandary_FTR" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kzquandary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kzquandary" height="30" width="40" /></a>
-<a href="https://discord.gg/Kzquandary#9173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kzquandary#9173" height="30" width="40" /></a>
+<a href="https://discord.com/users/492729635583295489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kzquandary#9173" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -58,8 +57,8 @@
     <td>
       <h3>Programming Languages</h3>
       <p align="left">
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="c" width="40" height="40"/>
         </a>
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -82,7 +81,10 @@
       <h3>Front-End Development</h3>
       <p align="left">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+        </a>
+        <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="bootstrap" width="40" height="40"/>
         </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -93,8 +95,8 @@
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
         </a>
-        <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
         </a>
       </p>
     </td>
@@ -109,6 +111,9 @@
         </a>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+        </a>
+         <a href="https://go.dev" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="nodejs" width="40" height="40"/>
         </a>
       </p>
     </td>
@@ -138,16 +143,12 @@
       </p>
     </td>
     <td>
-      <h3>Software</h3>
-      <p align="left">
-        <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-          <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+      <h3>Tech</h3>
+        <a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="xd" width="40" height="40"/>
         </a>
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-        </a>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="xd" width="40" height="40"/>
+        <a href="https://docker.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="xd" width="40" height="40"/>
         </a>
       </p>
     </td>
@@ -156,9 +157,6 @@
       <p align="left">
         <a href="https://developer.android.com" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-        </a>
-        <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
         </a>
         <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
